@@ -1,1 +1,1 @@
-# cs211-waxman
+# cs211-waxman projects
